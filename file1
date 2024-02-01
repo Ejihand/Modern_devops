@@ -1,4 +1,38 @@
-I am a computer man
+I am a computer ma
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Many developers of NGS tools prefer to use Linux as the operating
+system for their works. To use these tools (e.g. BWA, Bowtie, and
+SAMTOOLS) users need to have a good level of proficiency in Linux.
+However, to our knowledge, most biologists who need to work with
+NGS are unfamiliar with the operating system and require at least a
+gentle introduction on this topic for them to better understand commonly used commands in Linux. Otherwise, they need to juggle with
+two difficulties while learning NGS tools; (i) the general Linux features
+and (ii) the new tools that they need to master. The aim of this chapter is to remove the first difficulty associated with familiarizing oneself
+with the Linux system so that users can concentrate on understanding
+NGS tools. It is not possible to cover all aspects of Linux but the intention here is for users to be able to navigate the rest of the chapters
+with ease. For users who are already familiar with Linux, they may
+skip this chapter and go directly to Chapter 3 on sequence qualityn
 trying my best to become a bioinformatical enginee. Many developers of NGS tools prefer to use Linux as the operating
 system for their works. To use these tools (e.g. BWA, Bowtie, and
 SAMTOOLS) users need to have a good level of proficiency in Linux.
@@ -23,3 +57,4 @@ with the Linux system so that users can concentrate on understanding
 NGS tools. It is not possible to cover all aspects of Linux but the intention here is for users to be able to navigate the rest of the chapters
 with ease. For users who are already familiar with Linux, they may
 skip this chapter and go directly to Chapter 3 on sequence quality
+this is another test
